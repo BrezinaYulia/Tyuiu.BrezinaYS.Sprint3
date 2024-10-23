@@ -9,7 +9,7 @@ namespace Tyuiu.BrezinaYS.Sprint3.Task0.V12.Lib
             int i;
             for (i = startValue; i <= stopValue; i++)
             {
-                pro = pro * (Math.Pow(value, i) + 1 / (i + 1));
+                pro = pro * (Math.Pow(value, i) + (1 / (i + 1.0)));
 
             }
             return pro;

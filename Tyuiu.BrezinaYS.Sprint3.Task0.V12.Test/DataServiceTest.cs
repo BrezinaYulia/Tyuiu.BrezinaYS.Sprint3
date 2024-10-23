@@ -12,7 +12,7 @@ namespace Tyuiu.BrezinaYS.Sprint3.Task0.V12.Test
             int st = 1;
             int en = 13;
             double res = ds.GetMultiplySeries(value, st, en);
-            double wait = 1;
+            double wait = 7.5;
             Assert.AreEqual(wait, res);
         }
     }
