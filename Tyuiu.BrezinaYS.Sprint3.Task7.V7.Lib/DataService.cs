@@ -14,7 +14,7 @@ namespace Tyuiu.BrezinaYS.Sprint3.Task7.V7.Lib
             {
                 if (x == -2)
                 {
-                    y = Math.Round((Math.Cos(x) - 3 * x), 2);
+                    y = 0;
                     valueArray[count] = y;
                     count++;
 

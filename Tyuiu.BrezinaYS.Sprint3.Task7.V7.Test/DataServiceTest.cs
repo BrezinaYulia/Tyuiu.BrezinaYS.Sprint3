@@ -16,7 +16,7 @@ namespace Tyuiu.BrezinaYS.Sprint3.Task7.V7.Test
             valueWaitArray[0] = 15.19;
             valueWaitArray[1] = 11.67;
             valueWaitArray[2] = 9;
-            valueWaitArray[3] = 5.58;
+            valueWaitArray[3] = 0;
             valueWaitArray[4] = 4.08;
             valueWaitArray[5] = 1.5;
             valueWaitArray[6] = -2.28;
